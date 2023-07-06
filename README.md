@@ -10,4 +10,4 @@ Este repositório é dedicado ao meu Portfólio com projetos de Data Science de 
 <br>
 <li><a href="https://github.com/leoventura44/Data-Science/blob/main/alunos.ipynb">Projeto 02 - Alunos</a>: Neste projeto, pegamos os dados de uma prova final de um curso de Ensino Superior, nele fizemos um tratamento removendo os dados nulos, removemos dois alunos que não faziam mais parte do curso, criamos uma coluna para pontos extras e somamos o valor de 40% da nota final e listamos todos os aprovados.</li>
 <br>
-- [Projeto 03 - Filmes TMDB](https://github.com/leoventura44/Data-Science/blob/main/Filmes_TMDB.ipynb):
+<li><a href="https://github.com/leoventura44/Data-Science/blob/main/Filmes_TMDB.ipynb">Projeto 03 - Filmes TMDB</a>: Aqui pegamos alguns dados do site TMDB(The Movie Database) e fizemos uma analise exploratoria, tratamos os dados, e usando algumas bibliotecas como o Matplotlib, Seaborn e Pandas plotamos vários tipos de graficos que mais encaixaria ao nosso propósito. Também vimos médias, medianas, quartis e outras métricas. Este projeto foi feito para estudos de visualização de dados.
